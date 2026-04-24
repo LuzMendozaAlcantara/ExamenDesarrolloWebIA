@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    color: #877979;
+    color: #ede0e0;
     background: #f5f5f5;
     font-family: Georgia, serif;
     display: grid;
@@ -71,7 +71,7 @@ main{
     width: 40px; border-radius: 50%;
 }
     .class-badge {
-    background: #e94560;
+    background: #921127;
     padding: 4px 12px;
     border-radius: 20px;
     font-size: 0.85rem;
@@ -165,7 +165,10 @@ main{
     padding: 60px 40px;
     background: #0f3460;
     }
-
+.challenge-intro{
+    margin-bottom: 24px; max-width: 600px;
+    color: #fff7f8;
+}
     /* Error: campos sin estilos accesibles, sin indicador de foco visible */
     input, select {
       display: block;
